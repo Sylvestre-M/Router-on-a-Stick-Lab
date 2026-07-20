@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Cisco
+*.log
+*.nvram
+*.sav
+
+# GNS3 / EVE-NG
+*.tmp
+*.bak
