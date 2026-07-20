@@ -57,7 +57,6 @@ SW-DISTRIB
 configs/
 docs/
 hosts/
-images/
 topology/
 ```
 
